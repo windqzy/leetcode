@@ -21,7 +21,6 @@
 男友 c 出站，匹配 → 匹配成功，栈：['a', 'b']
 男友 b 出站，匹配 → 匹配成功，栈：['a']
 男友 a 出站，匹配 → 匹配成功，栈：[]
-
 """
 class Solution:
     def isValid(self, s: str) -> bool:
